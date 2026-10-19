@@ -26,8 +26,8 @@ A small Python OOP console application for managing books and tracking users' re
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/library-app.git
-cd library-app
+git clone https://github.com/drobnjakfilip0-cmd/Library-App-python-.git
+cd Library-App-python-
 ```
 
 ### 2. Create a virtual environment
