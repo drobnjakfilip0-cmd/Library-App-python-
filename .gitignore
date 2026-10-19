@@ -1,0 +1,17 @@
+# Virtuelno okruzenje — generise se komandom, ne commituje se:
+#   python3 -m venv venv && source venv/bin/activate
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Editori
+.idea/
+.vscode/
